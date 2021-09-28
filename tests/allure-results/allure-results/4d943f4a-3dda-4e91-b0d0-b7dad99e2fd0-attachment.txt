@@ -1,0 +1,1 @@
+INFO     test_product_header_title:test_ProductPage.py:31 Header page tittle is PRODUCTS

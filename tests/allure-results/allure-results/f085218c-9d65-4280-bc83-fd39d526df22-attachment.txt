@@ -1,0 +1,1 @@
+INFO     test_product_page_title:test_ProductPage.py:23 Page tittle is Swag Labs

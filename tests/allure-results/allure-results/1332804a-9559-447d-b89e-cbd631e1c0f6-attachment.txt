@@ -1,0 +1,1 @@
+INFO     test_product_page_header:test_checkoutPage.py:21 UI Shopping cart link clicked

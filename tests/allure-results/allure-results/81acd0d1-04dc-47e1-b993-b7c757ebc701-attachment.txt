@@ -1,0 +1,5 @@
+INFO     test_loginformGroup:test_LoginPage.py:32 User name is standard_user
+INFO     test_loginformGroup:test_LoginPage.py:34 Username entered into the usernameInput textField
+INFO     test_loginformGroup:test_LoginPage.py:35 Password entered into the passwordInput textField
+INFO     test_loginformGroup:test_LoginPage.py:36 User clicked on signIn btn
+INFO     test_loginformGroup:test_LoginPage.py:37 User successfully logged in to the app

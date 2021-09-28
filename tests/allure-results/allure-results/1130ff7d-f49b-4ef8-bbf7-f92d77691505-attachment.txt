@@ -1,0 +1,1 @@
+INFO     test_login_text_exist:test_LoginPage.py:28 Text 'password for all users' displayed

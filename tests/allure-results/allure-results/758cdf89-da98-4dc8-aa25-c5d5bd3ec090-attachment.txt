@@ -1,0 +1,1 @@
+INFO     test_checkOut_overview:test_checkoutPage.py:59 Checkout header tittle is CHECKOUT: OVERVIEW

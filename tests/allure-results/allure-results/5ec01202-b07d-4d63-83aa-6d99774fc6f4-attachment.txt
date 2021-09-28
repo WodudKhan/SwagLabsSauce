@@ -1,0 +1,2 @@
+INFO     test_checkout_cart_header:test_checkoutPage.py:31 Cart header tittle is YOUR CART
+INFO     test_checkout_cart_header:test_checkoutPage.py:34 UI checkout btn clicked

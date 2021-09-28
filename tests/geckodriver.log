@@ -1,0 +1,22 @@
+1630217644713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wkhan\\AppData\\Local\\Temp\\rust_mozprofile.bNIFRmftnzUx"
+1630217647580	Marionette	INFO	Marionette enabled
+LdrLoadDll: Ignoring the REDIRECT_TO_NOOP_ENTRYPOINT flag
+LdrLoadDll: Blocking load of 'dgapi64.dll' (SearchPathW didn't find it?)
+LdrLoadDll: Ignoring the REDIRECT_TO_NOOP_ENTRYPOINT flag
+LdrLoadDll: Blocking load of 'dgapi64.dll' (SearchPathW didn't find it?)
+LdrLoadDll: Ignoring the REDIRECT_TO_NOOP_ENTRYPOINT flag
+LdrLoadDll: Blocking load of 'dgapi64.dll' (SearchPathW didn't find it?)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wkhan\\AppData\\Local\\Temp\\rust_mozprofile.BRuPuIyk51Jr\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Ignoring the REDIRECT_TO_NOOP_ENTRYPOINT flag
+LdrLoadDll: Blocking load of 'dgapi64.dll' (SearchPathW didn't find it?)
+1630217653893	Marionette	INFO	Listening on port 62696
+1630217654373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+LdrLoadDll: Ignoring the REDIRECT_TO_NOOP_ENTRYPOINT flag
+LdrLoadDll: Blocking load of 'dgapi64.dll' (SearchPathW didn't find it?)
+1630217656293	Marionette	INFO	Stopped listening on port 62696
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+ didn't find it?)
+1630217655625	Marionette	INFO	Stopped listening on port 62695
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]

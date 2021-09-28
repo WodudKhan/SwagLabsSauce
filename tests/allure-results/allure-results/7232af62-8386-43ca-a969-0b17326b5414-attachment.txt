@@ -1,0 +1,2 @@
+INFO     test_checkOut_total:test_checkoutPage.py:67 Checkout sum total is Total: $49.66
+INFO     test_checkOut_total:test_checkoutPage.py:69 UI Finish btn clicked

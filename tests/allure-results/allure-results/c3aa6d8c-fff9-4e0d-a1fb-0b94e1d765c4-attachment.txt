@@ -1,0 +1,1 @@
+INFO     test_info_formGroup:test_checkoutPage.py:51 User entered checkout information

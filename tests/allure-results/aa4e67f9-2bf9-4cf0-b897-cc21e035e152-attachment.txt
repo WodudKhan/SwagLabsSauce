@@ -1,0 +1,1 @@
+INFO     objectSetup:test_LoginPage.py:31 User name is standard_user

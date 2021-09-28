@@ -1,0 +1,100 @@
+2021-08-27 22:33:19,328 :INFO : test_login_page_title :Page tittle is Swag Labs
+2021-08-27 22:33:19,531 :INFO : test_login_text_exist :Text 'password for all users' displayed
+2021-08-27 22:33:19,617 :INFO : test_loginformGroup :User name is standard_user
+2021-08-27 22:33:20,002 :INFO : test_loginformGroup :Username entered into the usernameInput textField
+2021-08-27 22:33:20,003 :INFO : test_loginformGroup :Password entered into the passwordInput textField
+2021-08-27 22:33:20,003 :INFO : test_loginformGroup :User clicked on signIn btn
+2021-08-27 22:33:20,003 :INFO : test_loginformGroup :User successfully logged in to the app
+2021-08-27 22:33:23,484 :INFO : test_product_page_title :Page tittle is Swag Labs
+2021-08-27 22:33:23,665 :INFO : test_product_header_title :Header page tittle is PRODUCTS
+2021-08-27 22:33:23,969 :INFO : test_add_to_cart :Items added to the shopping cart
+2021-08-27 22:33:27,511 :INFO : test_product_page_header :UI Shopping cart link clicked
+2021-08-27 22:33:27,673 :INFO : test_checkout_cart_header :Cart header tittle is YOUR CART
+2021-08-27 22:33:27,747 :INFO : test_checkout_cart_header :UI checkout btn clicked
+2021-08-27 22:33:27,895 :INFO : test_checkout_info_header :Checkout info header tittle is CHECKOUT: YOUR INFORMATION
+2021-08-27 22:33:28,392 :INFO : test_info_formGrup :User entered checkout information
+2021-08-27 22:33:28,541 :INFO : test_checkOut_overview :Checkout header tittle is CHECKOUT: OVERVIEW
+2021-08-27 22:33:28,691 :INFO : test_checkOut_total :Checkout sum total is Total: $49.66
+2021-08-27 22:33:28,753 :INFO : test_checkOut_total :UI Finish btn clicked
+2021-08-27 22:33:28,914 :INFO : test_checkOut_complete_header :Checkout header tittle is CHECKOUT: COMPLETE!
+2021-08-27 22:33:28,971 :INFO : test_checkOut_complete_header :UI Thank you message displayed as THANK YOU FOR YOUR ORDER
+2021-08-27 22:33:54,282 :INFO : test_login_page_title :Page tittle is Swag Labs
+2021-08-27 22:33:54,449 :INFO : test_login_text_exist :Text 'password for all users' displayed
+2021-08-27 22:33:54,537 :INFO : test_loginformGroup :User name is standard_user
+2021-08-27 22:33:54,902 :INFO : test_loginformGroup :Username entered into the usernameInput textField
+2021-08-27 22:33:54,902 :INFO : test_loginformGroup :Password entered into the passwordInput textField
+2021-08-27 22:33:54,902 :INFO : test_loginformGroup :User clicked on signIn btn
+2021-08-27 22:33:54,902 :INFO : test_loginformGroup :User successfully logged in to the app
+2021-08-27 22:33:58,180 :INFO : test_product_page_title :Page tittle is Swag Labs
+2021-08-27 22:33:58,372 :INFO : test_product_header_title :Header page tittle is PRODUCTS
+2021-08-27 22:33:58,681 :INFO : test_add_to_cart :Items added to the shopping cart
+2021-08-27 22:34:01,921 :INFO : test_product_page_header :UI Shopping cart link clicked
+2021-08-27 22:34:02,074 :INFO : test_checkout_cart_header :Cart header tittle is YOUR CART
+2021-08-27 22:34:02,140 :INFO : test_checkout_cart_header :UI checkout btn clicked
+2021-08-27 22:34:02,287 :INFO : test_checkout_info_header :Checkout info header tittle is CHECKOUT: YOUR INFORMATION
+2021-08-27 22:34:02,752 :INFO : test_info_formGrup :User entered checkout information
+2021-08-27 22:34:02,914 :INFO : test_checkOut_overview :Checkout header tittle is CHECKOUT: OVERVIEW
+2021-08-27 22:34:03,064 :INFO : test_checkOut_total :Checkout sum total is Total: $49.66
+2021-08-27 22:34:03,126 :INFO : test_checkOut_total :UI Finish btn clicked
+2021-08-27 22:34:03,285 :INFO : test_checkOut_complete_header :Checkout header tittle is CHECKOUT: COMPLETE!
+2021-08-27 22:34:03,344 :INFO : test_checkOut_complete_header :UI Thank you message displayed as THANK YOU FOR YOUR ORDER
+2021-08-28 23:58:22,152 :INFO : test_login_page_title :Page tittle is Swag Labs
+2021-08-28 23:58:22,351 :INFO : test_login_text_exist :Text 'password for all users' displayed
+2021-08-28 23:58:22,450 :INFO : test_loginformGroup :User name is standard_user
+2021-08-28 23:58:22,897 :INFO : test_loginformGroup :Username entered into the usernameInput textField
+2021-08-28 23:58:22,898 :INFO : test_loginformGroup :Password entered into the passwordInput textField
+2021-08-28 23:58:22,898 :INFO : test_loginformGroup :User clicked on signIn btn
+2021-08-28 23:58:22,898 :INFO : test_loginformGroup :User successfully logged in to the app
+2021-08-28 23:58:26,140 :INFO : test_product_page_title :Page tittle is Swag Labs
+2021-08-28 23:58:26,371 :INFO : test_product_header_title :Header page tittle is PRODUCTS
+2021-08-28 23:58:26,702 :INFO : test_add_to_cart :Items added to the shopping cart
+2021-08-28 23:58:30,400 :INFO : test_product_page_header :UI Shopping cart link clicked
+2021-08-28 23:58:30,571 :INFO : test_checkout_cart_header :Cart header tittle is YOUR CART
+2021-08-28 23:58:30,642 :INFO : test_checkout_cart_header :UI checkout btn clicked
+2021-08-28 23:58:30,808 :INFO : test_checkout_info_header :Checkout info header tittle is CHECKOUT: YOUR INFORMATION
+2021-08-28 23:58:31,351 :INFO : test_info_formGrup :User entered checkout information
+2021-08-28 23:58:31,516 :INFO : test_checkOut_overview :Checkout header tittle is CHECKOUT: OVERVIEW
+2021-08-28 23:58:31,697 :INFO : test_checkOut_total :Checkout sum total is Total: $49.66
+2021-08-28 23:58:31,763 :INFO : test_checkOut_total :UI Finish btn clicked
+2021-08-28 23:58:31,931 :INFO : test_checkOut_complete_header :Checkout header tittle is CHECKOUT: COMPLETE!
+2021-08-28 23:58:32,001 :INFO : test_checkOut_complete_header :UI Thank you message displayed as THANK YOU FOR YOUR ORDER
+2021-09-16 13:14:30,180 :INFO : test_login_page_title :Page tittle is Swag Labs
+2021-09-16 13:14:30,355 :INFO : test_login_text_exist :Text 'password for all users' displayed
+2021-09-16 13:14:30,439 :INFO : test_loginformGroup :User name is standard_user
+2021-09-16 13:14:30,880 :INFO : test_loginformGroup :Username entered into the usernameInput textField
+2021-09-16 13:14:30,880 :INFO : test_loginformGroup :Password entered into the passwordInput textField
+2021-09-16 13:14:30,881 :INFO : test_loginformGroup :User clicked on signIn btn
+2021-09-16 13:14:30,881 :INFO : test_loginformGroup :User successfully logged in to the app
+2021-09-16 13:14:34,346 :INFO : test_product_page_title :Page tittle is Swag Labs
+2021-09-16 13:14:34,541 :INFO : test_product_header_title :Header page tittle is PRODUCTS
+2021-09-16 13:14:34,860 :INFO : test_add_to_cart :Items added to the shopping cart
+2021-09-16 13:14:38,529 :INFO : test_product_page_header :UI Shopping cart link clicked
+2021-09-16 13:14:38,682 :INFO : test_checkout_cart_header :Cart header tittle is YOUR CART
+2021-09-16 13:14:38,749 :INFO : test_checkout_cart_header :UI checkout btn clicked
+2021-09-16 13:14:38,899 :INFO : test_checkout_info_header :Checkout info header tittle is CHECKOUT: YOUR INFORMATION
+2021-09-16 13:14:39,405 :INFO : test_info_formGroup :User entered checkout information
+2021-09-16 13:14:39,581 :INFO : test_checkOut_overview :Checkout header tittle is CHECKOUT: OVERVIEW
+2021-09-16 13:14:39,733 :INFO : test_checkOut_total :Checkout sum total is Total: $49.66
+2021-09-16 13:14:39,799 :INFO : test_checkOut_total :UI Finish btn clicked
+2021-09-16 13:14:39,976 :INFO : test_checkOut_complete_header :Checkout header tittle is CHECKOUT: COMPLETE!
+2021-09-16 13:14:40,041 :INFO : test_checkOut_complete_header :UI Thank you message displayed as THANK YOU FOR YOUR ORDER
+2021-09-17 00:35:11,773 :INFO : test_login_page_title :Page tittle is Swag Labs
+2021-09-17 00:35:12,040 :INFO : test_login_text_exist :Text 'password for all users' displayed
+2021-09-17 00:35:12,316 :INFO : test_loginformGroup :User name is standard_user
+2021-09-17 00:35:12,958 :INFO : test_loginformGroup :Username entered into the usernameInput textField
+2021-09-17 00:35:12,959 :INFO : test_loginformGroup :Password entered into the passwordInput textField
+2021-09-17 00:35:12,959 :INFO : test_loginformGroup :User clicked on signIn btn
+2021-09-17 00:35:12,959 :INFO : test_loginformGroup :User successfully logged in to the app
+2021-09-17 00:35:15,992 :INFO : test_product_page_title :Page tittle is Swag Labs
+2021-09-17 00:35:16,177 :INFO : test_product_header_title :Header page tittle is PRODUCTS
+2021-09-17 00:35:16,495 :INFO : test_add_to_cart :Items added to the shopping cart
+2021-09-17 00:35:19,818 :INFO : test_product_page_header :UI Shopping cart link clicked
+2021-09-17 00:35:20,000 :INFO : test_checkout_cart_header :Cart header tittle is YOUR CART
+2021-09-17 00:35:20,129 :INFO : test_checkout_cart_header :UI checkout btn clicked
+2021-09-17 00:35:20,345 :INFO : test_checkout_info_header :Checkout info header tittle is CHECKOUT: YOUR INFORMATION
+2021-09-17 00:35:21,113 :INFO : test_info_formGroup :User entered checkout information
+2021-09-17 00:35:21,326 :INFO : test_checkOut_overview :Checkout header tittle is CHECKOUT: OVERVIEW
+2021-09-17 00:35:21,540 :INFO : test_checkOut_total :Checkout sum total is Total: $49.66
+2021-09-17 00:35:21,671 :INFO : test_checkOut_total :UI Finish btn clicked
+2021-09-17 00:35:21,920 :INFO : test_checkOut_complete_header :Checkout header tittle is CHECKOUT: COMPLETE!
+2021-09-17 00:35:22,029 :INFO : test_checkOut_complete_header :UI Thank you message displayed as THANK YOU FOR YOUR ORDER

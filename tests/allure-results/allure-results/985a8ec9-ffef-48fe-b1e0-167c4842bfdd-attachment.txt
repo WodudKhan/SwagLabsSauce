@@ -1,0 +1,1 @@
+INFO     test_checkout_info_header:test_checkoutPage.py:43 Checkout info header tittle is CHECKOUT: YOUR INFORMATION

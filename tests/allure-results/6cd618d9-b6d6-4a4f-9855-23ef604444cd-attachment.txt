@@ -1,0 +1,1 @@
+INFO     objectSetup:test_LoginPage.py:23 Page tittle is Swag Labs

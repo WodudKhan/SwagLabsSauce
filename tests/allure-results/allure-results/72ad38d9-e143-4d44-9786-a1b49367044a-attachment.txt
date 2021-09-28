@@ -1,0 +1,1 @@
+INFO     test_add_to_cart:test_ProductPage.py:38 Items added to the shopping cart

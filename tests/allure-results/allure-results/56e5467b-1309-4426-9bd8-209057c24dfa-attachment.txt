@@ -1,0 +1,2 @@
+INFO     test_checkOut_complete_header:test_checkoutPage.py:77 Checkout header tittle is CHECKOUT: COMPLETE!
+INFO     test_checkOut_complete_header:test_checkoutPage.py:82 UI Thank you message displayed as THANK YOU FOR YOUR ORDER
